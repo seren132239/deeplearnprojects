@@ -1,0 +1,10 @@
+
+# YOLOv5 配置文件 (使用绝对路径)
+train: D:/LEARN/deeplearning/deepproject/PythonProject2/yolov5_antsbees/datasets/bees_ants/images/train
+val: D:/LEARN/deeplearning/deepproject/PythonProject2/yolov5_antsbees/datasets/bees_ants/images/val
+
+# 类别数
+nc: 2
+
+# 类别名称
+names: ['bee', 'ant']
